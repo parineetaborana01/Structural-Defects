@@ -1,3 +1,4 @@
 # Structural-Defects
 This application creates a report on Structural Defects of the image provided.
 https://structural-defects-ltsiakqfc2lcaq2cmo5oq5.streamlit.app/
+AI-Assisted Structural Defect Identifier is a Streamlit-based web application that analyzes construction site images to identify and report structural defects using Google Gemini’s multimodal AI. Built in Python using VS Code, the app allows users to upload defect images, enter basic report details, and automatically generate a structured inspection report detailing defect type, severity, potential impact, and recommended repair solutions with estimated cost and time. The project focuses on standardizing defect documentation, reducing manual inspection effort, and enabling faster, more consistent quality assessments in construction projects.
