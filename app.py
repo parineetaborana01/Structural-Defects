@@ -8,7 +8,7 @@ import datetime as dt # to add current date and time in that report,as we cannot
 
 gemini_api_key=os.getenv('Gemini API Key2')
 genai.configure(api_key=gemini_api_key)
-model=genai.GenerativeModel('gemini-2.5-flash')
+model=genai.GenerativeModel('gemini-2.5-flash-lite')
 
 # Lets create SideBar for image upload.
 st.sidebar.title(':orange[Upload the images of Defect Here:]')
